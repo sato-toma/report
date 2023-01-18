@@ -1,1 +1,9 @@
 out
+game/**/*.aux
+game/**/*.dvi
+game/**/*.fdb_latexmk
+game/**/*.fls
+game/**/*.log
+game/**/*.pdf
+game/**/*.gz
+game/**/*.toc
