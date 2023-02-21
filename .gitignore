@@ -1,4 +1,4 @@
-out
+/out/
 game/**/*.aux
 game/**/*.dvi
 game/**/*.fdb_latexmk
@@ -7,3 +7,4 @@ game/**/*.log
 game/**/*.pdf
 game/**/*.gz
 game/**/*.toc
+game/**/*.out
