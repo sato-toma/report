@@ -1,0 +1,7 @@
+著者 Toma SATO 
+Ver.1.0, 2023-11-28
+
+:doctype: book
+:scripts: cjk
+:pdf-theme: default-with-font-fallbacks
+:sectnums:
