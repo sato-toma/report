@@ -1,5 +1,4 @@
 = 現代美術のすすめ
 include::book_option.adoc[leveloffset=+1]
-
-
 include::introduction.adoc[leveloffset=+1]
+include::PaulCézanne.adoc[leveloffset=+1]
