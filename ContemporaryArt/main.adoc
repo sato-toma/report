@@ -2,3 +2,4 @@
 include::book_option.adoc[leveloffset=+1]
 include::introduction.adoc[leveloffset=+1]
 include::PaulCézanne.adoc[leveloffset=+1]
+include::PabloPicasso.adoc[leveloffset=+1]

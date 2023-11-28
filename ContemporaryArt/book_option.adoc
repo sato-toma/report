@@ -1,7 +1,11 @@
-著者 Toma SATO 
-Ver.1.0, 2023-11-28
 
+:Author: Toma SATO
+:Date: 2023/11/28
+:Revision: R.1.0
 :doctype: book
 :scripts: cjk
 :pdf-theme: default-with-font-fallbacks
 :sectnums:
+:toc-title: 目次
+:toc: left
+:toclevels: 5
