@@ -4,4 +4,8 @@ include::introduction.adoc[leveloffset=+1]
 include::PaulCézanne.adoc[leveloffset=+1]
 include::PabloPicasso.adoc[leveloffset=+1]
 include::GeorgesBraque.adoc[leveloffset=+1]
+include::TristanTzara.adoc[leveloffset=+1]
+include::MarcelDuchamp.adoc[leveloffset=+1]
+include::AndréBreton.adoc[leveloffset=+1]
+include::SalvadorDalí.adoc[leveloffset=+1]
 
